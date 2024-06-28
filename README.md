@@ -1,4 +1,3 @@
-![Data](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.edureka.co%2Fblog%2Fhow-to-become-a-machine-learning-engineer%2F&psig=AOvVaw1T6f8g4Es5D2mvA3emfqC4&ust=1719690517832000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCKkMyI_4YDFQAAAAAdAAAAABAE)
 <h1 align="center">Hi 👋, I'm Carla Ezaki</h1>
 <h3 align="center">A passionate backend and product manager for data and AI</h3>
 
